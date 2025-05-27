@@ -16,3 +16,22 @@
 - SEO: Explored Google Search Console basics
 
 💬 Feeling more focused after 3-day break. Will stay consistent.
+
+## Day 3 – May 26, 2025
+
+✅ Solved:
+- [Array.prototype.last](https://leetcode.com/problems/array-prototype-last/) (Easy)
+
+💬 Today I kept it light but made sure not to break my consistency again. Showing up matters.
+
+## Day 4 – May 27, 2025
+
+✅ Solved:
+- [Divisible and Non-Divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference) (Easy)
+
+🧠 JavaScript Revision:
+- Practiced `console.log`, `prompt`, `confirm`, variables, ternary operator, and basic types
+- Updated: Web-Dev-Revision/JavaScript/basics.js
+
+💬 Felt productive revisiting fundamentals. Goal is to do a little each day and stay consistent.
+
