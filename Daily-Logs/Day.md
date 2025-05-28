@@ -35,3 +35,14 @@
 
 💬 Felt productive revisiting fundamentals. Goal is to do a little each day and stay consistent.
 
+## Day 5 – May 28, 2025
+
+✅ Completed:
+- JS 30-Day Challenge: Day 1 (Create Hello World Function)
+- LeetCode Easy: Maximum Score After Splitting a String
+
+⚠️ Attempted:
+- Daily Problem: Maximize the Number of Target Nodes After Connecting Trees I (stopped due to DSA gaps)
+
+🧠 Reflection:
+Had a heavy workload from company tasks. Couldn’t work on React or WordPress today, but kept my LeetCode streak and challenge alive. Will revisit DSA concepts soon.
