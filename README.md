@@ -1,2 +1,11 @@
-# Restart-Journey
-My daily growth log and coding practice—includes LeetCode solutions, HTML/CSS/JS/React revision, and WordPress custom code notes.
+# Restart Journey
+
+This repository tracks my journey of relearning and strengthening web development fundamentals (HTML, CSS, JavaScript) and LeetCode practice problems.
+
+## Contents
+- Web Dev Revision (HTML, CSS, JS)
+- LeetCode Revisions
+- Daily Progress Logs
+
+## Goal
+To solidify basics before diving deeper into advanced topics.
