@@ -46,3 +46,18 @@
 
 🧠 Reflection:
 Had a heavy workload from company tasks. Couldn’t work on React or WordPress today, but kept my LeetCode streak and challenge alive. Will revisit DSA concepts soon.
+
+## Day 6 – May 29, 2025
+
+✅ Completed:
+- JS 30-Day Challenge: Day 2 (Counter Function)
+- LeetCode Easy: Two Sum (with Map)
+
+⚠️ Attempted:
+- Daily Problem: Maximize Target Nodes II (too advanced now)
+
+📚 Revised:
+- JS: Loops, Functions, Arrow functions, Strings
+
+🧠 Reflection:
+Felt more confident with JS. Failed a hard LeetCode problem but tackled two others, revised JS, and documented progress. Good day.

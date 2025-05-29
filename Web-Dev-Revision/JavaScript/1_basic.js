@@ -3,14 +3,14 @@ console.log("This is basics of JS") // print in console
 alert("Hellow world") // shop pop-up at middle top -- this does not work in node js
 
 a = promt("Enter your number") // take input
-console.log("Your number is " + a ) // this prints the number you entered in console
+console.log("Your number is " + a ) // this prints the number in console that you entered in pop-up as input 
 
 var isTrue = confirm("Are you learning JS for the first time") // take input for confirmation
 if(isTrue){
-    console.log("Yes") //print yes on confirming in console
+    console.log("Yes") //print yes on confirming in pop-up
 }
 else{
-    console.log("no") // print no on canceling in console
+    console.log("no") // print no on canceling in pop-up
 }
 
 // Variables
