@@ -61,3 +61,15 @@ Had a heavy workload from company tasks. Couldn’t work on React or WordPress t
 
 🧠 Reflection:
 Felt more confident with JS. Failed a hard LeetCode problem but tackled two others, revised JS, and documented progress. Good day.
+
+## Day 7 – May 30, 2025
+
+✅ Completed:  
+- JS 30-Day Challenge: Day 3 (Custom expect function)  
+- LeetCode Easy: Valid Parentheses (stack implementation)  
+
+⚠️ Attempted:  
+- Daily Medium DSA problem: Closest Node (needs graph knowledge)
+
+🧠 Reflection:  
+Felt good solving easy problems with stacks and custom functions. Need to focus more on graph theory and medium DSA concepts for daily challenges. Consistency is key.
