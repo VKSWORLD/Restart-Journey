@@ -73,3 +73,21 @@ Felt more confident with JS. Failed a hard LeetCode problem but tackled two othe
 
 🧠 Reflection:  
 Felt good solving easy problems with stacks and custom functions. Need to focus more on graph theory and medium DSA concepts for daily challenges. Consistency is key.
+
+## Day 7 – May 30, 2025
+
+✅ Completed:
+- JS Array revision with map/filter/reduce
+- 2 custom exercises on logic and factorials
+- LeetCode 30-Day JS Challenge: Day 3 (Counter II)
+- LeetCode Easy: Palindrome Number
+
+⚠️ Attempted:
+- LeetCode Medium: Snakes and Ladders (needs DSA concepts)
+
+📚 Focus:
+- Deep dive into JavaScript
+- No React or Python DSA until core revisions are done
+
+🧠 Reflection:
+Gained better confidence in JS arrays and methods. Feeling the gap in DSA, but that’s okay — revision will close it. Staying consistent and accountable.
