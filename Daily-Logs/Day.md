@@ -91,3 +91,14 @@ Felt good solving easy problems with stacks and custom functions. Need to focus 
 
 🧠 Reflection:
 Gained better confidence in JS arrays and methods. Feeling the gap in DSA, but that’s okay — revision will close it. Staying consistent and accountable.
+
+## Day 5 – June 1, 2025
+
+✅ Completed:
+- JS 30-Day Challenge: Day 4 (map transform problem)
+
+⚠️ Attempted:
+- LeetCode Daily Problem (Distribute Candies...) — skipped due to DSA complexity
+
+🧠 Reflection:
+Completed JavaScript challenge confidently. Daily problem was skipped due to needing stronger DSA foundation, which is okay. Keeping track of all skipped problems helps.
