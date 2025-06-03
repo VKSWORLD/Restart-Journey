@@ -114,3 +114,15 @@ Completed JavaScript challenge confidently. Daily problem was skipped due to nee
 
 🧠 Reflection:  
 Kept my streak alive with LeetCode problems despite limited time for revision or new learning. Steady progress is key.
+
+## Day 9 – June 3, 2025
+
+✅ Completed:
+- JS 30-Day Challenge: Day 7 (Array Reduce Transformation)
+- LeetCode Easy: Length of Last Word
+
+⚠️ Attempted:
+- Daily Problem: Maximum Candies (too difficult currently)
+
+🧠 Reflection:
+Kept momentum going. It wasn’t a heavy study day, but maintained the streak with JavaScript and problem-solving practice. Will focus more tomorrow.
