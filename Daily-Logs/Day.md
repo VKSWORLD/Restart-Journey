@@ -126,3 +126,16 @@ Kept my streak alive with LeetCode problems despite limited time for revision or
 
 🧠 Reflection:
 Kept momentum going. It wasn’t a heavy study day, but maintained the streak with JavaScript and problem-solving practice. Will focus more tomorrow.
+
+## Day 10 – June 4, 2025
+
+✅ Completed:  
+- JS 30-Day Challenge: Day 8 (Function Composition)  
+- LeetCode Easy: Plus One  
+- Revised JavaScript: DOM basics and manipulation (document, body, children, etc.)
+
+⚠️ Attempted:  
+- Daily Problem: Find the Lexicographically Largest String From the Box I (hard-level)
+
+🧠 Reflection:  
+Felt good revising JavaScript DOM and solving problems. Although the daily challenge was hard, I maintained consistency, which is key. Feeling I'm on the right track now!
