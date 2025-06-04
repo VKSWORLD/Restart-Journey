@@ -3,4 +3,5 @@ console.log(window.document, "Document")
 console.log(document.body.firstChild, document.body.firstElementChild)
 let child = document.body.childNodes[1];
 console.log(child)
-console.log(child.firstChild, child.firstElementChild)
+console.log(child.firstChild, child.firstElementChild, "Different between first child and first element child")
+console.log(child.childNodes, child.children) // children for htmls elements
