@@ -139,3 +139,16 @@ Kept momentum going. It wasn’t a heavy study day, but maintained the streak wi
 
 🧠 Reflection:  
 Felt good revising JavaScript DOM and solving problems. Although the daily challenge was hard, I maintained consistency, which is key. Feeling I'm on the right track now!
+
+## Day 11 – June 5, 2025
+
+✅ Completed:  
+- JS 30-Day Challenge: Day 9 (Return Length of Arguments Passed)  
+- LeetCode Easy: Remove Duplicates from Sorted Array  
+- Revised JavaScript: DOM Selectors and Methods
+
+⚠️ Attempted:  
+- Daily Problem: Lexicographically Smallest Equivalent String (Too advanced for now)
+
+🧠 Reflection:  
+Even though I couldn't crack the hard problem, I didn’t let that slow me down. Solved easier problems, revised JS deeply. Slowly but surely, I’m becoming confident in both LeetCode and JavaScript.
