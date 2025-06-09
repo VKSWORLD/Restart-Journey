@@ -152,3 +152,13 @@ Felt good revising JavaScript DOM and solving problems. Although the daily chall
 
 🧠 Reflection:  
 Even though I couldn't crack the hard problem, I didn’t let that slow me down. Solved easier problems, revised JS deeply. Slowly but surely, I’m becoming confident in both LeetCode and JavaScript.
+
+## Day 12 – June 6, 2025
+
+✅ Completed:  
+- JS 30-Day Challenge: Day 8 (Allow One Function Call)  
+- JS 30-Day Challenge: Day 9 (Memoize)  
+- LeetCode Easy: Find the Difference
+
+🧠 Reflection:  
+Felt low for 3 days but came back and did great today. Resumed LeetCode 30-day challenge and solved an easy problem too. Momentum is restarted.
