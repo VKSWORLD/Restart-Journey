@@ -162,3 +162,12 @@ Even though I couldn't crack the hard problem, I didn’t let that slow me down.
 
 🧠 Reflection:  
 Felt low for 3 days but came back and did great today. Resumed LeetCode 30-day challenge and solved an easy problem too. Momentum is restarted.
+
+## Day 13 – June 7, 2025
+
+✅ Completed:  
+- JS 30-Day Challenge: Day 11 (Add Two Promises)  
+- HTML Revision (tags, tables, lists, anchor tags)
+
+🧠 Reflection:  
+Bounced back after a break with a simple but effective study session. I’m focusing on showing up and building rhythm again — one small win at a time.
